@@ -145,12 +145,12 @@ export function About() {
                 </div>
               </div>
 
-              {/* Card Visual / Sculptural Graphic */}
+              {/* Card Visual / Profile Photo */}
               <div className="relative my-8 rounded-2xl overflow-hidden bg-[#020503] border border-white/[0.08] aspect-[4/3] flex items-center justify-center group">
                 <img
-                  src="/images/shape-ref.jpg"
+                  src="/images/manasi.jpg"
                   alt="Manasi CS - Thejus Engineering College"
-                  className="w-full h-full object-cover object-center filter contrast-125 brightness-95 group-hover:scale-105 transition-transform duration-700"
+                  className="w-full h-full object-cover object-[center_18%] filter contrast-[1.05] brightness-95 group-hover:scale-105 transition-transform duration-700"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-[#050A06] via-transparent to-transparent opacity-80" />
                 

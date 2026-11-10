@@ -93,7 +93,7 @@ export const portfolioData: PortfolioData = {
     degree: "B.Tech in Computer Science & Engineering",
     graduationYear: "2026",
     location: "Kerala, India",
-    email: "manasics.dev@gmail.com",
+    email: "manasics08@gmail.com",
     phone: "+91 98765 43210",
     resumeUrl: "#resume",
     status: "Available for internships & collaborations"
@@ -304,35 +304,9 @@ export const portfolioData: PortfolioData = {
       ]
     },
     {
-      year: "2024",
-      title: "Frontend Development Intern",
-      organization: "TechInnovate Solutions",
-      location: "Remote / Hybrid",
-      type: "experience",
-      description: "Engineered responsive client dashboards, converted Figma designs into modular React components, and optimized critical rendering paths.",
-      highlights: [
-        "Reduced bundle size by 28% using code-splitting & dynamic imports",
-        "Implemented GSAP interactive scroll sequences for marketing pages",
-        "Collaborated with senior engineers using Git pull request workflows"
-      ]
-    },
-    {
-      year: "2023",
-      title: "Hackathon Finalist & Project Lead",
-      organization: "State Engineering TechFest",
-      location: "Kerala",
-      type: "achievement",
-      description: "Conceptualized and coded a campus safety and peer academic aid application within a 36-hour sprint, winning praise for UI elegance and system responsiveness.",
-      highlights: [
-        "Built complete MVP in React + Firebase",
-        "Presented live demo to an industry judging panel",
-        "Awarded Best User Experience Design Award"
-      ]
-    },
-    {
-      year: "2021 - 2023",
+      year: "2025 - 2026",
       title: "Higher Secondary Education (Computer Science)",
-      organization: "Higher Secondary Board",
+      organization: "Depual Public School",
       location: "Kerala",
       type: "education",
       description: "Completed higher secondary education with distinction, establishing core fundamentals in mathematics, computer science (C++ & Python), and logical reasoning.",
